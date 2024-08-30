@@ -3,6 +3,7 @@ import { StaticImage } from 'gatsby-plugin-image';
 import styled from 'styled-components';
 import { srConfig } from '@config';
 import sr from '@utils/sr';
+
 import { usePrefersReducedMotion } from '@hooks';
 
 const StyledAboutSection = styled.section`
@@ -173,7 +174,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpeg"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

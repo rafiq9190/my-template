@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Muhammad Rafiq',
+    title: 'Remote Developer',
     description:
       'Muhammad Rafiq is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://MuhammadRafiq.com', // No trailing slash allowed!
