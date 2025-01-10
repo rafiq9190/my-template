@@ -1,11 +1,16 @@
 ---
 date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'MERN STACK DEVELOPER / FULL STACK DEVELOPER'
+company: 'BRAIN 360'
+location: 'Punjab, FSD'
+range: 'Spring 2020 & 2022'
+url: ''
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Crafting dynamic, user-friendly interfaces for modern web applications.
+- Building and optimizing scalable RESTful APIs for seamless integration.
+- Building fast, efficient server-side applications to power your web apps.
+- Implementing powerful, flexible APIs with real-time data fetching capabilities.
+- Simplifying state management and data fetching for optimized user experiences.
+- Creating custom apps to enhance Shopify store functionality and user engagement.
+- Leveraging Shopify’s design system to build clean, accessible, and visually appealing UIs.

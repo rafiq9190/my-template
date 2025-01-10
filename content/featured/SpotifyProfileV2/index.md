@@ -1,16 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
+title: 'Shopify E-Commerce Store'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+# external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://purechain.de/'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Shopify
+  - E-Commerce
+  - Theme Development
+  - Custom functionality addition
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
-
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+Our goal is to make your jewelry stand out with an elegant, visually captivating store. Using high-quality images, close-up shots, and dynamic zoom features, we’ll ensure that each piece of jewelry is showcased in a way that catches the attention of potential buyers. Eye-catching product pages will display key details like material, size, and styling options to enhance the appeal of each item and encourage purchases.

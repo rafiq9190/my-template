@@ -1,15 +1,13 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Social Lead Generation'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+# github: 'https://github.com/bchiang7/spotify-profile'
+external: 'https://www.likesgeek.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Wordpress
+  - Theme Customization
+  - Plugin Development
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+LikesGeek is your go-to platform for quickly and safely enhancing your social media presence. Whether you're an influencer, brand, or just someone looking to grow your online profile, we provide a reliable solution to boost likes and followers on your social media accounts. Our services are designed to help you gain genuine engagement, increase visibility, and attract a larger audience—without the hassle

@@ -65,23 +65,20 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a full stack developer specializing in creating dynamic, user-friendly, and visually
+        stunning web applications. I craft responsive, accessible, and SEO-optimized websites to
+        elevate digital experiences. Currently, I’m focused on delivering high-quality solutions for
+        businesses and developers .
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="mailto:your-email@example.com?subject=Free%20Consultancy%20Request&body=Hi%2C%20I%20would%20like%20to%20get%20a%20free%20consultancy!"
       target="_blank"
       rel="noreferrer">
-      Check out my course!
+      Get Free Consultancy
     </a>
   );
 

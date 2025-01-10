@@ -13,7 +13,7 @@ const StyledAboutSection = styled.section`
     display: grid;
     grid-template-columns: 3fr 2fr;
     grid-gap: 50px;
-
+    align-items: center;
     @media (max-width: 768px) {
       display: block;
     }
@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Shopify', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +136,24 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              I am a versatile web developer with a strong foundation in JavaScript (ES6+),
+              TypeScript, and modern frameworks like React, enabling me to craft dynamic,
+              responsive, and high-performing web applications. My expertise in front-end
+              development ensures seamless user experiences and accessibility for diverse audiences.
+              I have a proven ability to integrate complex APIs, manage state efficiently, and
+              optimize performance, making me a valuable asset in any project. With a passion for
+              clean and maintainable code, I focus on delivering solutions that align with both user
+              needs and business goals.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Beyond front-end development, I am skilled in back-end technologies like Node.js,
+              allowing me to build robust server-side applications and RESTful APIs. My proficiency
+              with Shopify and WordPress enables me to design and customize eCommerce platforms and
+              content management systems that drive engagement and sales. Whether it's developing a
+              headless Shopify storefront or creating bespoke WordPress themes, I bring creativity
+              and precision to every project. With a dedication to continuous learning and a
+              results-driven mindset, I deliver tailored solutions that exceed expectations.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -2,10 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Remote Developer',
+    title: 'Web Development & Website Maintenance Services | Muhammad Rafiq',
     description:
-      'Muhammad Rafiq is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://MuhammadRafiq.com', // No trailing slash allowed!
+      'Muhammad Rafiq is a skilled software engineer specializing in web development and the maintenance of existing websites. Offering expert solutions to build, enhance, and maintain your digital presence.',
+    metaKeyword:
+      'web development, website maintenance, web solutions, software engineering, digital experiences, web design, website optimization',
+    siteUrl: 'https://www.webdevgenius.info', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@',
   },
@@ -22,7 +24,7 @@ module.exports = {
       options: {
         name: 'Muhammad Rafiq',
         short_name: 'Muhammad Rafiq',
-        start_url: '/',
+        start_url: 'https://www.webdevgenius.info',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',

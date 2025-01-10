@@ -19,25 +19,22 @@ const Head = ({ title, description, image }) => {
             siteUrl
             defaultImage: image
             twitterUsername
+            metaKeyword
           }
         }
       }
     `,
   );
 
-  const {
-    defaultTitle,
-    defaultDescription,
-    siteUrl,
-    defaultImage,
-    twitterUsername,
-  } = site.siteMetadata;
+  const { defaultTitle, defaultDescription, siteUrl, defaultImage, twitterUsername, metaKeyword } =
+    site.siteMetadata;
 
   const seo = {
     title: title || defaultTitle,
     description: description || defaultDescription,
     image: `${siteUrl}${image || defaultImage}`,
     url: `${siteUrl}${pathname}`,
+    keyword: metaKeyword,
   };
 
   return (
@@ -46,7 +43,8 @@ const Head = ({ title, description, image }) => {
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
-
+      <meta name="keywords" content={seo.keyword} />
+      <meta name="author" content="Muhammad Rafiq" />
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
       <meta property="og:image" content={seo.image} />
@@ -59,7 +57,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:description" content={seo.description} />
       <meta name="twitter:image" content={seo.image} />
 
-      <meta name="google-site-verification" content="DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk" />
+      <meta name="google-site-verification" content="iZUQzHfoWxVTmZE6C0FYf-br6-8dI3svA_k_OEu37sc" />
     </Helmet>
   );
 };

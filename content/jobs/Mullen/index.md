@@ -1,12 +1,15 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Wordpress Developer'
+company: 'FARNEK.UK'
+location: 'Punjab, FSD'
+range: 'December 2020'
+url: 'www.farnek.uk'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Designed, implemented and monitored web pages, plugins and functionality for continuous improvement.
+- Multi-tasked across multiple focuses to generate project results and meet deadlines and organizational expectations.
+- Led effort to develop companion application programming interface (API) for web app, to facilitate third-party plugins.
+- Incorporated graphic design knowledge into web app development, enhancing designs with additional rich media assets.
+- Worked in both HTML and CSS environments, choosing each protocol, where appropriate, for best results.
+- Collaborated with developer, representing web team to establish project goals, projections and milestones.

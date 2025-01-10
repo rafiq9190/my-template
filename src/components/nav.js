@@ -23,6 +23,7 @@ const StyledHeader = styled.header`
   user-select: auto !important;
   backdrop-filter: blur(10px);
   transition: var(--transition);
+  max-width: 128;
 
   @media (max-width: 1080px) {
     padding: 0 40px;
@@ -206,8 +207,12 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a
+      className="resume-button"
+      href="https://www.upwork.com/freelancers/~013c40061828ffba29?mp_source=share"
+      target="_blank"
+      rel="noopener noreferrer">
+      Get on upwork
     </a>
   );
 

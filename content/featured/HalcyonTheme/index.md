@@ -1,15 +1,12 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
+title: 'Lead Generation'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+# github: 'https://github.com/bchiang7/halcyon-site'
+external: 'https://www.gatlan.com/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Word Press
+  - Lead Generation
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Boost sales by highlighting the effectiveness of the product. Showcase how it seamlessly integrates into daily life, making it easy for users to adopt and stick with. This will encourage customers to incorporate it into their routine and experience lasting results.
