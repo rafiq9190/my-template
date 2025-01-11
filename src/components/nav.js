@@ -23,7 +23,7 @@ const StyledHeader = styled.header`
   user-select: auto !important;
   backdrop-filter: blur(10px);
   transition: var(--transition);
-  max-width: 128;
+  max-width: 1280px;
 
   @media (max-width: 1080px) {
     padding: 0 40px;
@@ -34,7 +34,7 @@ const StyledHeader = styled.header`
 
   @media (prefers-reduced-motion: no-preference) {
     ${props =>
-    props.scrollDirection === 'up' &&
+      props.scrollDirection === 'up' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
@@ -44,7 +44,7 @@ const StyledHeader = styled.header`
       `};
 
     ${props =>
-    props.scrollDirection === 'down' &&
+      props.scrollDirection === 'down' &&
       !props.scrolledToTop &&
       css`
         height: var(--nav-scroll-height);
