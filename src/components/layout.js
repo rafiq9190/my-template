@@ -66,9 +66,9 @@ const Layout = ({ children, location }) => {
           ) : (
             <StyledContent>
               <Nav isHome={isHome} />
+              <Social isHome={isHome} />
 
               <div id="content">
-                <Social isHome={isHome} />
                 {children}
                 <Footer />
               </div>
