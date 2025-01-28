@@ -266,8 +266,8 @@ const Menu = () => {
               </ol>
             )}
 
-            <a href="/resume.pdf" className="resume-link">
-              Resume
+            <a href="https://www.upwork.com/freelancers/~013c40061828ffba29?mp_source=share" className="resume-link">
+              Get on upwork
             </a>
           </nav>
         </StyledSidebar>

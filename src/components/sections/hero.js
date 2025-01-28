@@ -75,7 +75,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="mailto:your-email@example.com?subject=Free%20Consultancy%20Request&body=Hi%2C%20I%20would%20like%20to%20get%20a%20free%20consultancy!"
+      href="mailto:contact@webdevgenius.info?subject=Free%20Consultancy%20Request&body=Hi%2C%20I%20would%20like%20to%20get%20a%20free%20consultancy!"
       target="_blank"
       rel="noreferrer">
       Get Free Consultancy
