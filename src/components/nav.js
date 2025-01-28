@@ -23,7 +23,7 @@ const StyledHeader = styled.header`
   user-select: auto !important;
   backdrop-filter: blur(10px);
   transition: var(--transition);
-  max-width: 1280px;
+
 
   @media (max-width: 1080px) {
     padding: 0 40px;

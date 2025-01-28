@@ -109,7 +109,6 @@ const GlobalStyle = createGlobalStyle`
     display: grid;
     grid-template-rows: 1fr auto;
     grid-template-columns: 100%;
-    
   }
 
   main {
@@ -174,10 +173,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     font-size: clamp(40px, 8vw, 80px);
   }
-  .second-heading{
-  margin:0;
-  font-size:calc(80px + (1.375rem - 80px) + 1.5vw);
-  }
+
   .medium-heading {
     margin: 0;
     font-size: clamp(40px, 8vw, 60px);
